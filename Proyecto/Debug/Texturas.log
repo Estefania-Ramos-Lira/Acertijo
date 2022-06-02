@@ -1,0 +1,5 @@
+﻿  Texturas.cpp
+C:\Users\HP\Desktop\Texturas\Texturas\Texturas.cpp(1079,1): warning C4102: 'sa3': etiqueta sin referencia
+C:\Users\HP\Desktop\Texturas\Texturas\Texturas.cpp(1094,5): warning C4102: 'fuera': etiqueta sin referencia
+C:\Users\HP\Desktop\Texturas\Texturas\Texturas.cpp(1114,1): warning C4102: 'sig': etiqueta sin referencia
+  Texturas.vcxproj -> C:\Users\HP\Desktop\Texturas\Texturas\Debug\Texturas.exe
